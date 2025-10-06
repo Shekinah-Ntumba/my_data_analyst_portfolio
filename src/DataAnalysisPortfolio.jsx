@@ -79,7 +79,7 @@ export default function DataAnalystPortfolio() {
     <div className="portfolio-root">
       <header className="hero">
         <div className="hero-inner">
-          <img src="/avatar.png" alt="Test Avatar" width="150" />
+          <img className="avatar" src="/avatar.png" alt="Shekinah Mpinguyabo" />
           <div>
             <h1>Shekinah Mpinguyabo</h1>
             <p className="lead">Data Analyst — turning messy data into actionable stories</p>
